@@ -1,15 +1,15 @@
-# graphql-react-event-booking
+# graphql-react-event-booking example
 
-# Build a Complete App with GraphQL, Node.js, MongoDB and React.js
+## Build a Complete App with GraphQL, Node.js, MongoDB and React.js
 
-# This tutorial can be found on YouTube - https://youtu.be/7giZGFDGnkc
+## This tutorial can be found on YouTube - https://youtu.be/7giZGFDGnkc
 
-# Basically just a tutorial to help me understand how to use GraphQL
+## Basically just a tutorial to help me understand how to use GraphQL
 
 
-## Install
+# Install
 
-# git clone this repo
+## git clone this repo
 
-''' run npm start '''
+##  npm start
 
